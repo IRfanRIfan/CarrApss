@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="judul">judul</string>
+    <string name="description">description</string>
+    <string-array name="judul_video">
+        <item>ASTRA NEW AYLA</item>
+        <item>DAIHATSU SUSIGRA</item>
+        <item>FORTUNER</item>
+        <item>GREND NEW VELOZ</item>
+        <item>HONDA BRIO</item>
+        <item>HONDA-CRX</item>
+        <item>HYUNDAI</item>
+        <item>MITSUBIHI X FORCE</item>
+        <item>NEW AGYA</item>
+        <item>NEW EXPANDER</item>
+        <item>NEW YARIS</item>
+        <item>STAR GAZER X</item>
+        <item>SUV X FORCE</item>
+        <item>VELOZ</item>
+        <item>XFC MITSUBIHI</item>
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>ASTRA NEW AYLA membawa revolusi dalam dunia otomotif dengan gaya yang futuristik dan kenyamanan tanpa tanding. Desainnya yang elegan dan performa tinggi menjadikannya pilihan utama untuk penggemar mobil yang menginginkan pengalaman berkendara yang luar biasa.</item>
+        <item>DAIHATSU SUSIGRA adalah perpaduan sempurna antara gaya modern dan daya tahan. Didesain dengan presisi untuk kenyamanan dan keamanan, mobil ini memenuhi semua kebutuhan pengemudi yang cerdas dan dinamis.</item>
+        <item>FORTUNER, simbol kemewahan dan petualangan. Mobil ini tidak hanya memberikan kenyamanan luar biasa di dalam kabin, tetapi juga siap menghadapi segala medan dengan performa off-road yang tangguh.</item>
+        <item>GREND NEW VELOZ, menyuguhkan gaya yang penuh keberanian dan performa yang memukau. Dibuat untuk menghadirkan kegembiraan berkendara, mobil ini memberikan pengalaman yang tak terlupakan di setiap perjalanan.</item>
+        <item>HONDA BRIO, kompak namun penuh gaya. Mobil ini menggabungkan efisiensi bahan bakar dengan desain yang menawan, menjadikannya pilihan ideal untuk mereka yang menginginkan mobilitas tanpa kompromi.</item>
+        <item>HONDA-CRX, menciptakan kesan yang tak terlupakan dengan desain yang sporty dan performa yang memikat. Mobil ini dirancang untuk penggemar kecepatan dan gaya yang eksklusif.</item>
+        <item>HYUNDAI, menghadirkan kombinasi yang sempurna antara kecanggihan dan kenyamanan. Dengan fitur-fitur terbaru dan desain yang modern, Hyundai adalah simbol dari gaya hidup modern.</item>
+        <item>MITSUBIHI X FORCE, sebuah keajaiban teknologi dan kehandalan. Dibangun untuk menghadapi tantangan setiap medan, mobil ini memberikan pengalaman berkendara yang tak tertandingi.</item>
+        <item>NEW AGYA, memberikan gaya tanpa usaha dan efisiensi yang luar biasa. Mobil kompak ini dirancang untuk menjawab kebutuhan mobilitas perkotaan dengan gaya yang tak dapat diabaikan.</item>
+        <item>NEW EXPANDER, melampaui batas dalam desain dan fungsionalitas. Mobil ini tidak hanya cocok untuk keluarga modern, tetapi juga siap menghadapi perjalanan jauh dengan nyaman dan aman.</item>
+        <item>NEW YARIS, simbol kecepatan dan keanggunan. Mobil ini menghadirkan gaya yang trendi dan performa yang tangguh, menjadikannya pilihan sempurna untuk pengemudi yang dinamis.</item>
+        <item>STAR GAZER X, membawa Anda ke petualangan di luar batas langit. Dengan desain yang futuristik dan teknologi terkini, mobil ini memenuhi impian perjalanan luar angkasa di setiap perjalanan daratnya.</item>
+        <item>SUV X FORCE, menggabungkan kegagahan SUV dengan performa yang mengagumkan. Dibuat untuk menghadapi tantangan setiap perjalanan, mobil ini adalah pilihan ideal untuk petualang sejati.</item>
+        <item>VELOZ, menciptakan kesan kemewahan dan gaya. Mobil ini tidak hanya menawarkan kenyamanan premium, tetapi juga tampil dengan desain yang memikat hati setiap penggemar mobil.</item>
+        <item>XFC MITSUBIHI, sebuah karya seni teknologi dan kehandalan. Mobil ini tidak hanya memberikan performa tinggi, tetapi juga merangkul gaya dan kecanggihan dalam setiap detailnya.</item>
+    </string-array>
+
+
+    <array name="video_id">
+        <item>@raw/astranewayla</item>
+        <item>@raw/daihatsusigra</item>
+        <item>@raw/fortuner</item>
+        <item>@raw/grandnewveloz</item>
+        <item>@raw/hondabrio</item>
+        <item>@raw/hondacrx</item>
+        <item>@raw/hyundai</item>
+        <item>@raw/mitsubihiexforce</item>
+        <item>@raw/newagya</item>
+        <item>@raw/newxpander</item>
+        <item>@raw/newyaris</item>
+        <item>@raw/stargazerx</item>
+        <item>@raw/suvexforce</item>
+        <item>@raw/veloz</item>
+        <item>@raw/xfcmitsubihi</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/astranewayla</item>
+        <item>@drawable/daihatsusigra</item>
+        <item>@drawable/fortuner</item>
+        <item>@drawable/grendnewveloz</item>
+        <item>@drawable/hondabrio</item>
+        <item>@drawable/hondacrx</item>
+        <item>@drawable/hyundai</item>
+        <item>@drawable/mitsubihiexforce</item>
+        <item>@drawable/newagya</item>
+        <item>@drawable/newexpander</item>
+        <item>@drawable/newyaris</item>
+        <item>@drawable/stargazerx</item>
+        <item>@drawable/suvxfoce</item>
+        <item>@drawable/veloz</item>
+        <item>@drawable/xfcmitsubihi</item>
+
+    </integer-array>
+</resources>
